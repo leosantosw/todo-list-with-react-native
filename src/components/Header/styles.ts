@@ -5,7 +5,6 @@ export default StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         backgroundColor: "#0D0D0D",
-        height: 180,
-        paddingTop: 20,
+        height: 160,
     },
 })
